@@ -1,0 +1,3 @@
+nombre : Alvaro 
+curso : python
+ciudad : 
